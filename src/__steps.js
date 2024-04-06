@@ -11,4 +11,4 @@
 // 11. import google authProvider and create new provider: const provider = new GoogleAuthProvider();
 // 12. Use signInWithPopup and pass auth and provider  
 // 13. Activate SignIn method in firebase project (Google, Facebook, github,...)
-// 14. Settings> Autorized Domain> add localhost or run in google start with localhost not ip address
+// 14. Settings> Authorized Domain> add localhost or run in google start with localhost not ip address(127.0.0.1)
